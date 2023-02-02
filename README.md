@@ -23,8 +23,8 @@ max3589_get_wiper_pos(CHANNEL_B)		// read the current position of channel B.
 ## Examples
 - `main.c`- example of using Digipot library. 
 ## Block diagram
-![Alt Text](../doc/Block_Diagram.png?raw=true)
+![Alt Text](doc/Block_Diagram.png?raw=true)
 ## Sequence diagram
-![Alt Text](../doc/Sequence_Diagram.png?raw=true)
+![Alt Text](doc/Sequence_Diagram.png?raw=true)
 ## Flow chart
-![Alt Text](../doc/Digiport_flowchart.png?raw=true)
+![Alt Text](doc/Digiport_flowchart.png?raw=true)
