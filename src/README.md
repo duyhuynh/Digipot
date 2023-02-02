@@ -21,4 +21,6 @@ max5389_set_wiper_pos(CHANNEL_B, 40)		// set a position to channel B
 max3589_get_wiper_pos(CHANNEL_B)		// read the current position of channel B.
 ```
 ## Examples
-- `main.c`- example of using Digipot library.  
+- `main.c`- example of using Digipot library. 
+## Block diagram
+![Optional Text](../doc/Block_Diagram)
